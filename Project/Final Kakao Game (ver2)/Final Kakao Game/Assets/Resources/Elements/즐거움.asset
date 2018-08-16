@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uC990\uAC70\uC6C0"
+  m_EditorClassIdentifier: 
+  name: "\uC990\uAC70\uC6C0"
+  combinemember1: "\uBB34\uC9C0"
+  combinemember2: "\uB77C\uC774\uC5B8"
+  thema: Emotion
+  description: "\uB2E8\uBB34\uC9C0\uC758 \uACF0\uC758 \uC870\uD569\uC744 \uC0DD\uAC01\uD574
+    \uBCF8 \uC801\uC774 \uC788\uB098\uC694?"
+  Found: 1
+  artwork: {fileID: 21300000, guid: dbe087a7c95ecb04f8f84de9ca1d19cb, type: 3}

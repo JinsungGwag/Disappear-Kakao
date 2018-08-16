@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uBB3C"
+  m_EditorClassIdentifier: 
+  name: "\uBB3C"
+  combinemember1: 
+  combinemember2: 
+  thema: Natural
+  description: "\uAC00\uC7A5 \uC88B\uC740 \uAC83\uC740 \uBB3C\uACFC \uAC19\uB2E4\uB77C\uB294
+    \uB9D0\uC774 \uC788\uC2B5\uB2C8\uB2E4."
+  Found: 1
+  artwork: {fileID: 21300000, guid: a539f7fd69123094ebc2b85f16ba8938, type: 3}

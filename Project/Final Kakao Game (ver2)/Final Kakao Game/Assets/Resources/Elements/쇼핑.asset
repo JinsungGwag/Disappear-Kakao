@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uC1FC\uD551"
+  m_EditorClassIdentifier: 
+  name: "\uC1FC\uD551"
+  combinemember1: "\uB3C8"
+  combinemember2: "\uD589\uBCF5"
+  thema: Behavior
+  description: "\uB3C8\uC73C\uB85C \uD589\uBCF5\uC744 \uC0AC\uB294 \uAC00\uC7A5 \uBE60\uB978
+    \uBC29\uBC95\uC785\uB2C8\uB2E4"
+  Found: 1
+  artwork: {fileID: 21300000, guid: 61ac72af37fd0b84584bed40b728be3d, type: 3}

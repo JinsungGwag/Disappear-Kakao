@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uBCF5\uC22D\uC544 \uCF54\uC2A4\uD504\uB808 \uCF58"
+  m_EditorClassIdentifier: 
+  name: "\uBCF5\uC22D\uC544 \uCF54\uC2A4\uD504\uB808 \uCF58"
+  combinemember1: "\uCF58"
+  combinemember2: "\uBCF5\uC22D\uC544"
+  thema: Skin
+  description: "\uBCF5\uC22D\uC544\uB97C \uC7A1\uAE30 \uC704\uD574\uC11C\uB294 \uBCF5\uC22D\uC544\uAC00
+    \uB418\uC5B4\uC57C \uD569\uB2C8\uB2E4"
+  Found: 1
+  artwork: {fileID: 21300000, guid: 86ab27b6be6f325499c453e28530cb7d, type: 3}

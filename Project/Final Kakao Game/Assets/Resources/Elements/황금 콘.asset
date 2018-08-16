@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uD669\uAE08 \uCF58"
+  m_EditorClassIdentifier: 
+  name: "\uD669\uAE08 \uCF58"
+  combinemember1: "\uCF58"
+  combinemember2: "\uD669\uAE08"
+  thema: Thing
+  description: "\uCE74\uCE74\uC624 \uC9C1\uC6D0 \uBA85\uD568 \uD55C \uBB36\uC74C\uB2F9
+    1\uC7A5 \uC815\uB3C4 \uC788\uC2B5\uB2C8\uB2E4. \uAC00\uCC60 \uC131\uACF5\uAC19\uC740
+    \uB290\uB08C"
+  Found: 1
+  artwork: {fileID: 21300000, guid: 8d8541fb29f1eb3489c6ef21156d553a, type: 3}

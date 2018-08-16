@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uCF58"
+  m_EditorClassIdentifier: 
+  name: "\uCF58"
+  combinemember1: "\uBB34\uC9C0"
+  combinemember2: "\uC545\uC5B4"
+  thema: Friend
+  description: "\uB2E8\uBB34\uC9C0\uB97C \uBB34\uC9C0\uB85C \uB9CC\uB4E0\uAC74 \uCF58\uC785\uB2C8\uB2E4..\uC5B4\uB5BB\uAC8C?"
+  Found: 1
+  artwork: {fileID: 21300000, guid: 33550c71551b8a94ea27834467fd1678, type: 3}

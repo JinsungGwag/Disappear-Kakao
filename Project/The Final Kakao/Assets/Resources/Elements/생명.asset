@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6cadc14d6d404388c63446ce2a6d2, type: 3}
+  m_Name: "\uC0DD\uBA85"
+  m_EditorClassIdentifier: 
+  name: "\uC0DD\uBA85"
+  combinemember1: "\uD0DC\uC591"
+  combinemember2: "\uC720\uC804\uC790"
+  thema: Natural
+  description: "\uD0DC\uC591\uC758 \uC124\uBA85\uC744 \uC798 \uC77D\uC5C8\uB2E4\uBA74
+    \uCC3E\uAE30 \uC27D\uC2B5\uB2C8\uB2E4."
+  Found: 1
+  artwork: {fileID: 21300000, guid: 010bbd6e542a890449a48ca5b1e60968, type: 3}
